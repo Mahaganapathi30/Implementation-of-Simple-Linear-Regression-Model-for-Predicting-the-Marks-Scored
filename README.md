@@ -53,10 +53,16 @@ plt.show()
 
 ```
 
+
 ## Output:
+
+
 
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/64ae2d11-a9c5-42e7-818f-2073a772137e" />
 
 
+
 ## Result:
+
+
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
